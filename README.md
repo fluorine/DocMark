@@ -73,7 +73,7 @@ Implemented features:
 Future features:
 * Line breaks (two spaces at end, like in Markdown)
 * Horizontal line
-* **Bold** and __Italics__
+* **Bold** and _Italics_
 * Bollets
 * Links between sections
 * HTTP links
