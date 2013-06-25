@@ -1,4 +1,4 @@
-+ Header 1 +++++++++++++++++++++++++++++++++++++++++++++++
+# Header 1 ###############################################
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Integer quis turpis quam. Phasellus eu sapien a massa 
 fermentum mollis vel ac tellus. Nulla facilisi. Nulla 
@@ -30,8 +30,36 @@ consectetur tincidunt. Aenean porta, eros eu vestibulum
 sodales, dolor mi vestibulum lacus, non iaculis mi elit 
 a arcu. 
 
-++ Header 2 ++++++++++++++++++++
+++  Header 2  +++++++++++++++++++++++++++++++++++++++++++++
 Vivamus viverra elementum ante, ac convallis erat molestie 
 porta. Nunc aliquam ligula ut nibh lobortis consectetur. 
 Fusce pellentesque aliquet urna sed placerat. Etiam nisi 
 turpis, vulputate vel aliquam nec, bibendum quis lorem. 
+
+---                    Header 3                        ---
+Quisque vestibulum ultricies sem, non rhoncus augue 
+tristique vitae. Sed tincidunt turpis ipsum, non congue 
+urna commodo auctor. Sed at pharetra lectus, quis mattis 
+sapien. 
+
+### Header 3 
+Quisque vestibulum ultricies sem, non rhoncus augue 
+tristique vitae. Sed tincidunt turpis ipsum, non congue 
+urna commodo auctor. Sed at pharetra lectus, quis mattis 
+sapien. 
+
+++++ Header 4 ++++++++++++++++++++++++++++++++++++++++++
+Nulla id sem elit. Integer ultricies neque quis
+feugiat lacinia. Nulla sed erat luctus, tempor sapien nec,
+varius ligula. Quisque metus erat, eleifend non elit eu,
+imperdiet pharetra velit. Nulla a tincidunt sem, sit amet
+laoreet risus. Vivamus dui dui, sodales sit amet venenatis
+condimentum, interdum nec mi.
+
+----- Header 5 --------------------------------------------
+ Quisque metus erat, eleifend non elit eu, imperdiet
+ pharetra velit. 
+
+------ Header 6
+Nulla id sem elit. Integer ultricies neque quis
+feugiat lacinia. 
