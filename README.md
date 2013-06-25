@@ -67,14 +67,14 @@ This command produces a **sample.html** document.
 TODO list
 ---------
 Implemented features:
-	* Headers
-	* Paragraphs
+* Headers
+* Paragraphs
 
 Future features:
-	* Line breaks (two spaces at end, like in Markdown)
-	* Horizontal line
-	* **Bold** and __Italics__
-	* Bollets
-	* Links between sections
-	* HTTP links
-	* Pictures
+* Line breaks (two spaces at end, like in Markdown)
+* Horizontal line
+* **Bold** and __Italics__
+* Bollets
+* Links between sections
+* HTTP links
+* Pictures
