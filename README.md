@@ -1,4 +1,4 @@
-DocMark (v 0.1 beta)
+DocMark (v 0.1.2 beta)
 ====================
 DocMark is another lightweight markup language.
 
@@ -69,10 +69,10 @@ TODO list
 Implemented features:
 * Headers
 * Paragraphs
+* Horizontal lines (<hr>)
 
 Future features:
 * Line breaks (two spaces at end, like in Markdown)
-* Horizontal line
 * **Bold** and _Italics_
 * Bollets
 * Links between sections
